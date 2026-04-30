@@ -1,35 +1,32 @@
-<!-- 🌈 TOP BANNER -->
+<!-- 🌈 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=220&section=header&text=Divi%20Garg&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=220&section=header&text=Divi%20Garg&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <h1 align="center">✨ Hey, I'm Divi 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&size=22&lines=Python+Developer;AI+Enthusiast;Building+Real+Projects;Debugging+at+2AM;Future+Top+5%25+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&size=22&lines=Python+Developer;AI+Enthusiast;Building+Cool+Projects;Future+Top+Engineer"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divi-garg&label=Profile+Views&color=ff69b4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=divi-garg&color=ff69b4&style=flat-square"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=2"/>
 
-## 🎭 About Me (controlled chaos)
+## 🎭 About Me
 
-```id="8d2q4f"
-class Divi:
-    def __init__(self):
-        self.role = "Final Year Student"
-        self.skills = ["Python", "C++", "Problem Solving"]
-        self.current_focus = ["DSA", "Backend", "AI Projects"]
-        self.energy_source = "Chai ☕"
-```
+* 🎓 Final Year B.Tech Student
+* 💻 I build projects (not just tutorials)
+* 🧠 Grinding DSA + Development
+* ☕ Powered by chai
+* 🎯 Goal: Become a top-tier developer
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=2"/>
 
-## 🎨 Tech Stack (my weapons)
+## 🎨 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,pycharm" />
@@ -41,63 +38,65 @@ class Divi:
   <img src="https://img.shields.io/badge/Backend-Exploring-green?style=for-the-badge"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=2"/>
 
-## 🚀 Featured Projects (the real flex)
+## 🚀 Projects
 
-| 💻 Project            | ⚡ Description                             |
-| --------------------- | ----------------------------------------- |
-| 🔐 Password Manager   | Tkinter app to generate & store passwords |
-| 🎤 NATO Converter     | Converts words → phonetic alphabet        |
-| 🎧 Podcast Summarizer | AI + audio processing pipeline            |
-| 🎮 Snake Game         | Classic game built in Python              |
-| 🌍 Guess State        | Interactive geography game                |
+### 🔥 Major Projects
 
----
+* 🎧 **Podcast Summarizer Compressor** – AI + audio processing pipeline
+* 🔐 **Password Manager** – Tkinter GUI for storing passwords
+* 🎤 **NATO Phonetic Converter** – Word → phonetic mapping
 
-## 📊 GitHub Stats (data doesn’t lie)
+### 🎮 Fun & Learning Projects
+
+* 🐍 Snake Game
+* 🏓 Ping Pong Game
+* 🏝️ Treasure Island (text-based game)
+* 🌍 Guess State (interactive geography game)
+* 📏 Mile to Km Converter (Tkinter GUI)
+
+### 🧪 Other Work
+
+* ⚙️ DevFlow (task/productivity project)
+* 🔗 Langchain experiments
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=2"/>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divi-garg&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divi-garg&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divi-garg&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divi-garg&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divi-garg&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divi-garg&theme=rose_pine&hide_border=true"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=2"/>
 
-## 🧠 Fun Zone (very real)
+## 🧠 Fun Zone
 
-* Debugging = 90% staring, 10% fixing
-* “It worked yesterday” → betrayal level 💀
+* Debugging = 90% confusion, 10% genius
+* “It worked yesterday” → biggest lie
+* I fix bugs by staring at them long enough
 * Ctrl + C / Ctrl + V = underrated skill
-* I don’t find bugs… they find me
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=2"/>
 
-## 🎯 Current Mission
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://progress-bar.dev/80/?title=DSA"/>
-  <img src="https://progress-bar.dev/65/?title=Backend"/>
-  <img src="https://progress-bar.dev/50/?title=AI"/>
-</p>
+* 📈 DSA Practice
+* ⚡ Real-world Projects
+* 🤖 AI Exploration
+* 🚀 Placement Preparation
 
----
-
-## 🏆 Achievements (in progress era)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divi-garg&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=2"/>
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/divi-garg">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
@@ -106,7 +105,7 @@ class Divi:
 </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=2"/>
 
 ## ✨ Philosophy
 
@@ -116,8 +115,8 @@ class Divi:
 
 ## 🎉 Bonus Code
 
-```id="baf7oe"
-while(alive):
+```python
+while alive:
     learn()
     build()
     fail()
@@ -129,5 +128,5 @@ while(alive):
 <!-- 🌈 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c1ee,100:fbc2eb&height=120&section=footer"/>
 </p>
