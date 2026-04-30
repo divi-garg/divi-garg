@@ -1,10 +1,10 @@
 <!-- 🔥 HEADER (NEON PURPLE) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Divi%20Garg&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Divisha%20Garg&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h1 align="center">⚡ Hey, I'm Divi 👩‍💻</h1>
+<h1 align="center">⚡ Hey, I'm Divisha 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E100FF&center=true&vCenter=true&size=22&lines=Python+Developer;AI+Explorer;Building+Real+Projects;Future+Top+Engineer"/>
