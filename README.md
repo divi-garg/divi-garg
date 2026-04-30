@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=220&section=header&text=Divi%20Garg&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h1 align="center">✨ Hey, I'm Divi 👩‍💻</h1>
+<h1 align="center">✨ Hey, I'm Divisha 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&size=22&lines=Python+Developer;AI+Enthusiast;Building+Cool+Projects;Future+Top+Engineer"/>
